@@ -1,5 +1,5 @@
 ## Hi! My name is Julia ;) 👋
-I worked with Mobile Development in Kotlin, but now I'm studying Ciência da Computação at IFSC - Lages.
+I've worked with Mobile Development in Kotlin, but now I'm just studying Ciência da Computação at IFSC - Lages.
 <div align="center">
 
     Trying to be a better programmer

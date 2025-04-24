@@ -7,7 +7,7 @@ I've worked with Mobile Development in Kotlin, but now I'm just studying Ciênci
 </div>
 
 >### Links
->>[![Pages](https://img.shields.io/badge/PAage-7360F2?style=flat-square&logoColor=white)](https://juliabolting.github.io/portifolioJuliaBolting/)
+>>[![Pages](https://img.shields.io/badge/Page-7360F2?style=flat-square&logoColor=white)](https://juliabolting.github.io/portifolioJuliaBolting/)
 >
 >>[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-bolting-2368b1266/)
 
